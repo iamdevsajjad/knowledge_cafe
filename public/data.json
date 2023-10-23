@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "Author": "John Doe",
+    "AuthorImage": "https://i.ibb.co/Dby45mJ/girl2.jpg",
+    "Title": "How to get your first job as a self taught programmer.",
+    "Image": "https://example.com/john-doe-image.jpg",
+    "CoverImage": "https://i.ibb.co/zV3S9pX/cartoondev.jpg",
+    "PublishedAt": "Mar 14 (4 days ago)",
+    "ReadTime": 10
+  },
+  {
+    "id": 2,
+    "Author": "Lena smike",
+    "AuthorImage": "https://i.ibb.co/F7Ypb7N/girl1.jpg",
+    "Title": "Easy way to earn money by self development.",
+    "Image": "https://example.com/jane-smith-image.jpg",
+    "CoverImage": "https://i.ibb.co/TPG5y8F/cartoonpic-1.jpg",
+    "PublishedAt": "Mar 14 (4 days ago)",
+    "ReadTime": 15
+  },
+  {
+    "id": 3,
+    "Author": "Michael Johnson",
+    "AuthorImage": "https://i.ibb.co/FHxWb72/boy2.jpg",
+    "Title": "How to maintain your life as a programmer.",
+    "Image": "https://example.com/michael-johnson-image.jpg",
+    "CoverImage": "https://i.ibb.co/gWjxjy7/cartoonthinking.jpg",
+    "PublishedAt": "Mar 14 (4 days ago)",
+    "ReadTime": 12
+  },
+  {
+    "id": 4,
+    "Author": "Sarah Brown",
+    "AuthorImage": "https://i.ibb.co/3CW8k2H/boy1.png",
+    "Title": "Learning tips and tricks for grow up.",
+    "Image": "https://example.com/sarah-brown-image.jpg",
+    "CoverImage": "https://i.ibb.co/JQvcjbr/cartooncoder.jpg",
+    "PublishedAt": "Mar 14 (4 days ago)",
+    "ReadTime": 12
+  }
+]
