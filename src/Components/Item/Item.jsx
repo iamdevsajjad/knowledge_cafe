@@ -1,7 +1,7 @@
 import React from "react";
 import { BsBookmark } from 'react-icons/bs';
 
-const Item = ({ item , handleAddToCart}) => {
+const Item = ({ item , handleMarkAsRead , handleAddToCart }) => {
   return (
     <div className="p-5 rounded-md my-5 bg-gray-50 ">
       <div className="full-card  w-full  ">
@@ -24,7 +24,7 @@ const Item = ({ item , handleAddToCart}) => {
             </div>
           </div>
           <div className="tittle text-2xl font-semibold">{item.Title}</div>
-          <button className="text-purple-900 font-bold text-xl underline my-5">Mark as read</button>
+          <button onClick={() => handleMarkAsRead(item)} className="text-purple-900 font-bold text-xl underline my-5">Mark as read</button>
         </div>
       </div>
     </div>
